@@ -22,68 +22,68 @@
 
 ## Features 🛠️
 
-- [] User authentication
-- [] User registration
-- [] User profile
-- [] User settings
-- [] User dashboard
-- [] User posts
-- [] User comments
-- [] User likes
-- [] User follows
-- [] User notifications
-- [] User messages
-- [] User search
-- [] User feed
-- [] User explore
-- [] User settings
-- [] User privacy
-- [] User security
-- [] User help
-- [] User about
-- [] User contact
-- [] User terms
-- [] User policy
-- [] User cookies
-- [] User GDPR
-- [] User CCPA
-- [] User COPPA
-- [] User DMCA
-- [] User Sitemap
-- [] User robots
-- [] User ads
-- [] User analytics
-- [] User SEO
-- [] User performance
-- [] User accessibility
-- [] User design
-- [] User branding
-- [] User marketing
-- [] User sales
-- [] User support
-- [] User feedback
-- [] User bugs
-- [] User feature requests
-- [] User roadmap
-- [] User changelog
-- [] User status
-- [] User uptime
-- [] User incidents
-- [] User outages
-- [] User maintenance
-- [] User updates
-- [] User releases
-- [] User versions
-- [] User changelog
-- [] User history
-- [] User archives
-- [] User backups
-- [] User exports
-- [] User imports
-- [] User migrations
-- [] User rollbacks
-- [] User restores
-- [] User snapshots
+- [ ] User authentication
+- [ ] User registration
+- [ ] User profile
+- [ ] User settings
+- [ ] User dashboard
+- [ ] User posts
+- [ ] User comments
+- [ ] User likes
+- [ ] User follows
+- [ ] User notifications
+- [ ] User messages
+- [ ] User search
+- [ ] User feed
+- [ ] User explore
+- [ ] User settings
+- [ ] User privacy
+- [ ] User security
+- [ ] User help
+- [ ] User about
+- [ ] User contact
+- [ ] User terms
+- [ ] User policy
+- [ ] User cookies
+- [ ] User GDPR
+- [ ] User CCPA
+- [ ] User COPPA
+- [ ] User DMCA
+- [ ] User Sitemap
+- [ ] User robots
+- [ ] User ads
+- [ ] User analytics
+- [ ] User SEO
+- [ ] User performance
+- [ ] User accessibility
+- [ ] User design
+- [ ] User branding
+- [ ] User marketing
+- [ ] User sales
+- [ ] User support
+- [ ] User feedback
+- [ ] User bugs
+- [ ] User feature requests
+- [ ] User roadmap
+- [ ] User changelog
+- [ ] User status
+- [ ] User uptime
+- [ ] User incidents
+- [ ] User outages
+- [ ] User maintenance
+- [ ] User updates
+- [ ] User releases
+- [ ] User versions
+- [ ] User changelog
+- [ ] User history
+- [ ] User archives
+- [ ] User backups
+- [ ] User exports
+- [ ] User imports
+- [ ] User migrations
+- [ ] User rollbacks
+- [ ] User restores
+- [ ] User snapshots
 
 ## Screenshots 📸
 
