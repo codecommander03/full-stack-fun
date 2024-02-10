@@ -1,4 +1,4 @@
-FROM python3.6-slim-buster
+FROM python:3.6-slim-buster
 
 # Set the working directory
 WORKDIR /app
