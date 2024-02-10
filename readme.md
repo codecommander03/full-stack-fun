@@ -1,10 +1,10 @@
 Note: This project is only for fun basis, kindly don't take it seriously. It's just a dummy project to trying out new things. Feel free to contribute if you want to. 🙌
 
-### A repo for Fullstack web application using nextjs and flask 🎉
-**frontend:** nextjs 🔥
-**backend:** flask 🌶️
-**database:** postgresql 🐘
-**deployment:** docker 🐳
+## A repo for Fullstack web application using nextjs and flask 🎉
+# *frontend:** nextjs 🔥
+# **backend:** flask 🌶️
+# **database:** postgresql 🐘
+# **deployment:** docker 🐳
 
 ## How to run 🚀
 1. Clone the repo
